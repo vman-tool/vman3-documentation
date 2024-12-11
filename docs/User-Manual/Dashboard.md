@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Dashboard
+# Dashboard 
 ## Dashboard Overview
 ![Dashboard image 1](./img/dashboard/firstpage.jpg)
 
