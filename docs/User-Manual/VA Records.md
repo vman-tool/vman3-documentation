@@ -32,16 +32,17 @@ This functionality enhances the user experience by enabling seamless navigation 
 ## Filtering Records
 
 One has the options to filter the data being viewed by using the filter option found at the top of most tabs.
-You can filter under the following parameters, 
+
+Filtering can be done under the following parameters, 
  - Date Type: Choose from the following selection. 
 (I).	Submission date
 (II).	Date of death
 (III).	Interview date
- - Start date: Select the date you want the data set to start on
- - End date: Select the date you want the data set to end on
- - Locations: Select the location form which you want the records to be pulled from
+ - Start date: Select the desired starting date for the dataset.
+ - End date: Select the desired ending date for the data set
+ - Locations: Select the location from which records should be retrieved.
  
-Once you are satisfied with your choices click APPLY on the far right to apply the changes to the charts. Click Reset to revert the filters back to their default parameters. 
+Once satisfied with the choices click **APPLY** on the far right to apply the changes to the charts. Click Reset to revert the filters back to their default parameters. 
 
 For the momemt this Panel and it's details can not be donwloaed. 
 

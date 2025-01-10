@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## Settings
 
-**Note:** Depending on the previlages asssinged, one might or might not be able to see all options available in this tab. 
+**Note:** Depending on the previlages asssinged,all or some options will be available in this tab.
 
 The settings page serves as the backbone of the system, providing a range of options to customize and optimize its functionality. It includes system-wide configurations, data synchronization features, and tools for managing users effectively.
 
@@ -18,13 +18,13 @@ The configuration Tab offers a wide range of system changes that affect everythi
 
 ![Dashboard image 1](./img/dashboard/systemconfg.jpg)
 
-This section enables you to customize elements of the system's appearance, including the page title, subtitle, and the hierarchy of admin levels.
+This section enables customization on elements of the system's appearance, including the page title, subtitle, and the hierarchy of admin levels.
 
 To make edits, click the blue Edit button located on the far right. This will open a panel where you can make the desired changes
 
 ![Dashboard image 1](./img/dashboard/systemconfg2.jpg)
 
-Once you are satsfied with the changes made, click on **Save Configurations** to allow the changes to take place. You might to have to log out and log in again for some of the changes to take affect. 
+Once satsfied with the changes made, click on **Save Configurations** to allow the changes to take place. Logging out and back in may be necessary for some changes to take effect. 
 
 **ODK Api**
 
@@ -51,11 +51,11 @@ This tab carries all the necceasary designation used in pulling information fron
 
 ![Dashboard image 1](./img/dashboard/fieldmapping.jpg)
 
-This will open a Mini-tab **Field Mapping** where one will have to change a number of fields to align with the system requirements and set parameters.
+This will open a mini-tab, **Field Mapping**, where various fields can be adjusted to align with system requirements and set parameters.
 
 ![Dashboard image 1](./img/dashboard/fieldmapping2.jpg)
 
-Once satisfied with changes, save thme by clicking **Save Field Mapping** at the bottom right of the Mini-tab. this will save the changes. 
+Once satisfied with changes, save them by clicking **Save Field Mapping** at the bottom right of the Mini-tab. this will save the changes. 
 
 **VA Summary**
 
@@ -73,15 +73,13 @@ Select the changes need then save them by clicking **Save VA Summary Configurati
 
 **System Images** 
 
-This section allows onw to chnage the images found across the system like Favicon, The system Logo and the login image. 
+This section enables changes to images across the system, such as the favicon, system logo, and login image.
 
 ![Dashboard image 1](./img/dashboard/systemimg.jpg)
 
-To change these images simple click the upload button indicated by the **Cloud Icon.** This will allow one to upload images directly form their desktop to the system and change them. To save these changes click the **Save Images** button found under the images. To return to default images click the **Revert Images** button found along sign.  
+To change these images simple click the upload button indicated by the **Cloud Icon.** This will upload images directly form their desktop to the system and change them. To save these changes click the **Save Images** button found under the images. To return to default images click the **Revert Images** button found along sign.  
 
 **label Access Fields**
-
-
 
 ![Dashboard image 1](./img/dashboard/lableaccess.jpg)
 
@@ -94,11 +92,11 @@ Pending..
 
 ![Dashboard image 1](./img/dashboard/users.jpg)
 
-This section provides an overview of all users currently in the system, displaying their name, email, and active status. Under the Action column, you’ll find additional functions such as **View**, **Edit**, and **Deactivate**.
+This section provides an overview of all users currently in the system, displaying their name, email, and active status. Additional functions are available under the Action column such as **View**, **Edit**, and **Deactivate**.
 
 - View: Opens a data manager tab containing a summary of the user’s information and roles.
 
-- Deactivate: [Add explanation here about what this option does.]
+- Deactivate: **[Add explanation here about what this option does.]**
 
 - Edit: Enables more detailed changes to the user’s profile and settings. 
 
@@ -118,7 +116,7 @@ After making the necessary changes, click Save User at the bottom right of the t
 
 **User Roles**
 
-**Note:** Depending on the previlages asssinged, one might or might not be able to see all options available in this tab. 
+**Note:** Depending on the previlages asssinged,all or some options will be available in this tab. 
 
 ![Dashboard image 1](./img/dashboard/userrole.jpg)
 
@@ -134,13 +132,13 @@ The Options button at the end of each role provides the following functions:
 
  ![Dashboard image 1](./img/dashboard/editrole.jpg)
 
-This option opens a tab where you can modify the role name and adjust its assigned privileges.
+This option opens a tab where the role name can be modified, and its assigned privileges can be adjusted.
 
 - The left column lists all available privileges.
 
 - The right column shows the privileges currently assigned to the role.
 
-You can add or remove privileges by clicking on them directly. Once you're satisfied with the changes, click **Save Role** at the bottom right of the tab to apply them. 
+Privilages can be added or removed by clicking on them directly. Onces satisfied with the changes, click **Save Role** at the bottom right of the tab to apply them. 
 
 ## Adding Users
 

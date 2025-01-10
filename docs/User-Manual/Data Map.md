@@ -16,16 +16,16 @@ By combining geospatial visualization with detailed record data, this tool suppo
 
 ## Filtering
 
-One has the options to filter the data being viewed by using the filter option found at the top of most tabs.
-You can filter under the following parameters, 
+Filtering options for data being viewed and downloaded can be found at the top of most tabs.
+Filtering can be done under the following parameters,  
  - Date Type: Choose from the following selection. 
 (I).	Submission date
 (II).	Date of death
 (III).	Interview date
- - Start date: Select the date you want the data set to start on
- - End date: Select the date you want the data set to end on
- - Locations: Select the location form which you want the records to be pulled from
+ - Start date: Select the desired starting date for the dataset.
+ - End date: Select the desired ending date for the data set
+ - Locations: Select the location from which records should be retrieved.
  
-Once you are satisfied with your choices click APPLY on the far right to apply the changes to the charts. Click Reset to revert the filters back to their default parameters. 
+Once satisfied with the choices click **APPLY** on the far right to apply the changes to the charts. Click Reset to revert the filters back to their default parameters.
 
 These filters will render on the map and show the locations that align with the filter options chosen. 

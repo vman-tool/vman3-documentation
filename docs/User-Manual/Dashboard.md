@@ -6,9 +6,9 @@ sidebar_position: 2
 ## Dashboard Overview
 ![Dashboard image 1](./img/dashboard/firstpage.jpg)
 
-This is the default tab displayed upon logging in. At the top left, you will see the VMan logo, with the Ministry of Health Tanzania logo positioned centrally. On the far right, your profile picture is displayed; clicking on it provides access to options such as account settings and the sign-out feature
+This is the default tab displayed upon logging in. The VMan logo is located at the top left and on the far right the profile picture is displayed providing access to options such as account settings and the sign-out feature when clicked.
 
-At the center and right side of your screen, you will see several charts displaying various datasets derived from the VA records accessible to the system. Each chart is clearly labeled to help you easily interpret the data it represents. Let’s take a moment to review them in detail.
+In the center and on the right side of the screen, several charts present various datasets derived from the VA records accessible to the system. Each chart is clearly labeled to ensure straightforward interpretation of the data. A detailed review of these charts is provided below:
 ## Charts
 **Monthly submissions chart**
 ![Dashboard image 1](./img/dashboard/monthlysubmission.jpg)
@@ -26,27 +26,29 @@ This chart displays the distribution of VA records by sex in intervals of five t
 ![Dashboard image 1](./img/dashboard/causeofdeath.jpg)
 These charts display the distribution of various causes of death for different population groups, based on the current VA records. The population sets include the overall population, male population, female population, adult population, child population, and neonate population.
 
-Toggling the top left button called **Toggle groups** allows you to switch between the different data sets. 
+Toggling the top left button called **Toggle groups** allows for switching to switch between the different data sets. 
+
 ![Dashboard image 1](./img/dashboard/causeofdeath2.jpg)
-You can download these individual data sets by clicking the blue download icon at the top right of the chart.
+Individual datasets can be downloaded by clicking the blue download icon located at the top right of the chart.
 
 **Latest submissions.**
 ![Dashboard image 1](./img/dashboard/latestsubmissions.jpg)
 This chart displays the most recent VA record submissions from across the country, summarized by region, district, count, and the date of the last submission. The data is further categorized by adults, children, neonates, males, and females. The bottom bar of the chart shows the total number of the latest submissions. To download the dataset, click the blue download icon located at the top right corner of the chart
 
 ## Filtering Records
-One has the options to filter the data being viewed and downloaded by using the filter option found at the top of most tabs.
+Filtering options for data being viewed and downloaded can be found at the top of most tabs.
+
 ![Dashboard image 1](./img/dashboard/filtering.jpg)
-You can filter under the following parameters, 
+Filtering can be done under the following parameters, 
  - Date Type: Choose from the following selection. 
 (I).	Submission date
 (II).	Date of death
 (III).	Interview date
- - Start date: Select the date you want the data set to start on
- - End date: Select the date you want the data set to end on
- - Locations: Select the location form which you want the records to be pulled from
+ - Start date: Select the desired starting date for the dataset.
+ - End date: Select the desired ending date for the data set
+ - Locations: Select the location from which records should be retrieved.
  
-Once you are satisfied with your choices click APPLY on the far right to apply the changes to the charts. Click Reset to revert the filters back to their default parameters. 
+Once satisfied with the choices, click **APPLY** on the far right to apply the changes to the charts. Click Reset to revert the filters back to their default parameters. 
 
 **Note:** Filters apply to all data sets throughout the system including other tabs. Remember this when moving from one tab to another.
 
@@ -55,4 +57,4 @@ Each individual chart with it's dataset can be downloaded in a range of differen
 
 ![Dashboard image 1](./img/dashboard/downloadbutton.jpg)
 
-Simply clicking the donwload button once will automatically intiate the donwnload from the system serves to the your computer. 
+Clicking the download button once automatically initiates the download from the system servers to the computer.
