@@ -7,7 +7,7 @@ sidebar_position: 1
 
 The VMan tool is a unified platform designed to integrate key features from both VMan and VATool, offering enhanced functionality and adaptability across various countries. It brings together the best elements of these tools and incorporates global best practices and recommendations from the VA-IT group to create a powerful, all-in-one solution for data management and visualization.
 
-![Dashboard image 1](./img/dashboard/vmanlogin.jpg)
+![Dashboard image 1](./User-Manual/img/dashboard/vmanlogin.jpg)
 
 This tool focuses on improving data quality by ensuring completeness, consistency, and accuracy. It uses advanced technical methods like system-to-system integration through Application Programming Interfaces (APIs) and Object-Oriented Programming for role- and level-based access control. With built-in error-checking mechanisms and adherence to Digital Adaptation Kit (DAK) standards, it provides reliable and standardized processes.
 
