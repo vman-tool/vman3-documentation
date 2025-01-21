@@ -14,7 +14,7 @@ The settings page serves as the backbone of the system, providing a range of opt
 
 The configuration Tab offers a wide range of system changes that affect everything from appearance to ODK data synchronization. 
 
-**System Configuration:** 
+### System Configuration:
 
 ![Dashboard image 1](./img/dashboard/systemconfg.jpg)
 
@@ -26,7 +26,7 @@ To make edits, click the blue Edit button located on the far right. This will op
 
 Once satsfied with the changes made, click on **Save Configurations** to allow the changes to take place. Logging out and back in may be necessary for some changes to take effect. 
 
-**ODK Api**
+### ODK Api
 
 This section focuses on the configuration and settings for the ODK (Open Data Kit) integration. Adjusting these settings allows the system to dynamically update its data sources and refine the datasets displayed and stored within the platform. Changes made here directly impact how and where the system retrieves data, ensuring that the displayed information aligns with the updated configurations
 
@@ -45,7 +45,7 @@ To Edit the configurations click the Blue Edit at the far right. This will open 
 
 After editting these fields, save the changes by clicking **Save ODK API Configuration** at the bottom right of the Mini-tab. 
 
-**Field Mapping**
+### Field Mapping
 
 This tab carries all the necceasary designation used in pulling information fron the records allowing the system to know where to find certain piece of information and how to display this information across the system. To edit this, simply click the **Blue edit button** at the far right.  
 
@@ -57,7 +57,7 @@ This will open a mini-tab, **Field Mapping**, where various fields can be adjust
 
 Once satisfied with changes, save them by clicking **Save Field Mapping** at the bottom right of the Mini-tab. this will save the changes. 
 
-**VA Summary**
+### VA Summary
 
 This section governs the display settings for the VA Records Summary, accessible via the View button within the **VA Records** tab for individual records. It also applies to the summary view available under the **All Assigned** tab when selecting the View icon, as well as other relevant sections of the system. 
 
@@ -71,7 +71,7 @@ To edit this click the **Blue eidt button** at the far right opening up the edit
 
 Select the changes need then save them by clicking **Save VA Summary Configuration**. 
 
-**System Images** 
+### System Images
 
 This section enables changes to images across the system, such as the favicon, system logo, and login image.
 
@@ -79,7 +79,7 @@ This section enables changes to images across the system, such as the favicon, s
 
 To change these images simple click the upload button indicated by the **Cloud Icon.** This will upload images directly form their desktop to the system and change them. To save these changes click the **Save Images** button found under the images. To return to default images click the **Revert Images** button found along sign.  
 
-**label Access Fields**
+### label Access Fields
 
 ![Dashboard image 1](./img/dashboard/lableaccess.jpg)
 
@@ -88,7 +88,7 @@ To change these images simple click the upload button indicated by the **Cloud I
 Pending..
 
 ## Users/Users Management
-**Users**
+### Users
 
 ![Dashboard image 1](./img/dashboard/users.jpg)
 
@@ -114,7 +114,7 @@ You can edit the following details for a user:
 
 After making the necessary changes, click Save User at the bottom right of the tab to apply them.
 
-**User Roles**
+### User Roles
 
 **Note:** Depending on the previlages asssinged,all or some options will be available in this tab. 
 
