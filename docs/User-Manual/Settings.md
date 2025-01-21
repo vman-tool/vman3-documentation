@@ -96,7 +96,9 @@ This section provides an overview of all users currently in the system, displayi
 
 - View: Opens a data manager tab containing a summary of the user’s information and roles.
 
-- Deactivate: **[Add explanation here about what this option does.]**
+- Deactivate: Removes all user permissions and privilages. The user will be unable to login or use any aspect of the system
+
+ **Note** The user is not deleted merely deactiveted. They can be reinstated without having to recreate the account.
 
 - Edit: Enables more detailed changes to the user’s profile and settings. 
 
@@ -107,7 +109,7 @@ You can edit the following details for a user:
 
 - Name
 - Email
-- Active status
+- Active stat us
 - Assigned user roles (add or remove)
 - Regional or district access restrictions
 - Password
