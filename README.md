@@ -35,7 +35,11 @@ After running the above command, the documentation will run and open the default
 
 
 ## How to run in docker
-make sure to have installed `docker` if not click [here](https://docs.docker.com/engine/install/) to install docker.
+make sure to have installed `docker` if not click [here](https://docs.docker.com/engine/install/) to install docker and clone the VMan documentation Repository from [VMan Documentation](https://github.com/vman-tool/vman3-documentation) using this command:
+
+```
+git clone https://github.com/vman-tool/vman3-documentation
+```
 
 Once you have docker installed, you can choose to run it in a docker compose file or run a container as is:
 
