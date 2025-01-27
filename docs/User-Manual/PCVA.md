@@ -32,7 +32,7 @@ This feature allows for the assignment of multiple records to a coder at once, s
 ## All Assigned
 ![Dashboard image 1](./img/dashboard/allassigned.jpg)
 
-This Mini-tab displays all the records assigned to coders for review and coding. Preliminary information is shown in the chart, but for more details, users can click the View option at the end of each row, represented by the **Eye icon** in the **Action Column**. This will open a new tab displaying the complete details of the VA record.
+This Mini-tab displays all the records assigned to a specific coder for reviewing and coding. Preliminary information is shown in the chart, but for more details, users can click the View option at the end of each row, represented by the **Eye icon** in the **Action Column**. This will open a new tab displaying the complete details of the VA record.
 
 ![Dashboard image 1](varecordspcva.jpg)
 
@@ -40,10 +40,10 @@ Also in the Action column, one can find a **Stethoscope icon**. As mentioned, cl
 
 ## Coded VA
 
-Under this Mini-tab the coder will be abale to see all VA records they have coded for. 
+Under this Mini-tab, the coder will be abale to see all VA records which have been coded. 
 
 ## Discordants
 
-The Discordants tab allows coders to view VA records that have been flagged due to discrepancies in the assigned causes of death. To ensure accuracy and consensus, two or more coders are assigned the same VA records to review. This collaborative approach helps ensure that the cause of death is determined through agreement among professionals.
+The Discordants tab allows coders to view VA records that have been flagged due to mis-matching of the underlying cause of death. 
 
-If the causes of death do not match, both coders will find the record in their Discordants tab. They will then have the opportunity to review the record again and discuss the differences until they reach a consensus. Once a uniform agreement is reached, either one or both coders will amend their coding sheets to align with the agreed cause of death and resubmit the updated coding for approval. This process ensures that the final coding reflects a shared, accurate conclusion.
+If the cause of death does not match, both coders will find the record in their Discordant tab. Coders will then have the opportunity to review the record again and discuss the differences until they reach a consensus. Once a uniform agreement is reached, either one or both coders will amend their coding sheets to align with the agreed cause of death and resubmit the updated coding for approval. This process ensures that the final coding reflects a shared, accurate conclusion.

@@ -4,15 +4,15 @@ sidebar_position: 5
 
 # Data Map
 ## Data Map
-This tab features an interactive map of Tanzania, providing a visual representation of all available VA records across the country.
+This tab features an interactive map of VA data collection sites. It provides visual representation of where the VA interviews were taken. 
 
-![Dashboard image 1](./img/dashboard/datamap.png)
+![Dashboard image 1](./img/dashboard/newmap1.jpg)
 
 Each record is marked with a red pin, allowing users to quickly identify the geographical distribution of the interviews. Clicking on a pin reveals key details about the corresponding interview, including the region, district, date, interviewer name, and the device ID used during the data collection process.
 
 The interactive map serves multiple purposes. It offers a clear view of the spatial distribution of VA interviews, enabling stakeholders to assess the extent of coverage and the progress made by interviewers in various regions. Additionally, the map highlights areas with the highest concentrations of recorded cases, providing valuable insights into potential disease patterns, regional trends, and other critical statistics.
 
-By combining geospatial visualization with detailed record data, this tool supports data-driven decision-making and enhances the understanding of health trends and resource allocation needs across Tanzania.
+By combining geospatial visualization with detailed record data, this tool supports data-driven decision-making and enhances the understanding of health trends and resource allocation needs across the region.
 
 ## Filtering
 
