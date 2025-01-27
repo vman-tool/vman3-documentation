@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+yarn.lock
+
+/build
+
+.env
+
+*.log
+.DS_Store
+.idea
+.vscode
+*.swp
+*.swo
