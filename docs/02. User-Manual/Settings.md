@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Settings
 
-## Settings
+## Intro
 
 **Note:** Depending on the previlages asssinged,all or some options will be available in this tab.
 

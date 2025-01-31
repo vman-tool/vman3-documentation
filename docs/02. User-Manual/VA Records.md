@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # VA Records
-## VA Records
+## Intro
 
 The second tab is designed to facilitate a more granular examination of the Verbal Autopsy (VA) records, providing users with the ability to delve into individual data entries. This feature is particularly useful for researchers and analysts seeking to extract detailed insights from the dataset.
 

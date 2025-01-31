@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Dashboard 
-## Dashboard Overview
+## Intro
 ![Dashboard image 1](./img/dashboard/firstpage.jpg)
 
 This is the default tab displayed upon logging in. The VMan logo is located at the top left and on the far right the profile picture is displayed providing access to options such as account settings and the sign-out feature when clicked.

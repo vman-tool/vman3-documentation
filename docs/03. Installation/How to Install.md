@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Installation
+# How to Install
 
 This page is still under construction 

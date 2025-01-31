@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Data Map
-## Data Map
+## Intro
 This tab features an interactive map of VA data collection sites. It provides visual representation of where the VA interviews were taken. 
 
 ![Dashboard image 1](./img/dashboard/newmap1.jpg)

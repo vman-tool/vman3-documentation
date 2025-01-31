@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # PCVA
-## PCVA
+## Intro
 **Note:** Depending on the previlages asssinged,all or some options will be available in this tab.
 
 The Physician-Coded Verbal Autopsy (PCVA) tab is a comprehensive and robust system designed to streamline and optimize the verbal autopsy coding and resolution process. It consists of four key components, each aimed at ensuring efficiency, accuracy, and consistency throughout the coding workflow:

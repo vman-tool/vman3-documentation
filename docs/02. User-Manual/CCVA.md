@@ -3,7 +3,7 @@ sidebar_position: 7
 ---
 
 # CCVA
-## CCVA
+## Intro
 The Computer-Coded Verbal Autopsy (CCVA) tab provides access to various datasets currently available in the system. Within the CCVA Background Analysis Chart, users can view detailed information for each dataset, including:
 
 - Date of creation
