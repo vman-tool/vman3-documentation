@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Interoperable',
-    Svg: require('@site/static/img/interopeability.svg').default,
+    Svg: require('@site/static/img/Interoparable.svg').default,
     description: (
       <>
         Enabling seamless integration with other systems through APIs for automated data exchange. It ensures smooth communication between platforms, enhancing data consistency and accessibility. Streamlining workflows and improving overall system efficiency
