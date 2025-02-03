@@ -68,7 +68,6 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'VMan',
       logo: {
         alt: 'Vman Logo',
         src: 'img/vman_logo.png',

@@ -10,29 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/easy_to_use.svg').default,
+    title: 'Configurable',
+    Svg: require('@site/static/img/configurable.svg').default,
     description: (
       <>
-        The VMan tool combines simplicity and functionality, integrating key features into a user-friendly platform. Standardized dashboards and seamless automation streamline workflows, saving time and effort.
+        The VMan tool allows countries to tailor dashboards, access controls, and data validation to their needs while maintaining global standards. Its flexibility ensures seamless adaptation to diverse workflows without compromising data integrity.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/focus.svg').default,
+    title: 'Scalable',
+    Svg: require('@site/static/img/scalable.svg').default,
     description: (
       <>
-        Prioritize impactful outcomes with VMan's focus on data accuracy and visualization. Adhering to global standards, it eliminates manual redundancies for smarter decision-making.
+          Designed to handle growing data needs across regions without compromising performance. It adapts effortlessly to different levels of implementation, ensuring efficiency from local to national use.
       </>
     ),
   },
   {
-    title: 'Built with Commitment',
-    Svg: require('@site/static/img/commitment.svg').default,
+    title: 'Interoperable',
+    Svg: require('@site/static/img/interopeability.svg').default,
     description: (
       <>
-        Crafted with precision, VMan reflects a dedication to excellence. With robust APIs, error-checking, and adherence to global best practices, it ensures reliability and quality.
+        Enabling seamless integration with other systems through APIs for automated data exchange. It ensures smooth communication between platforms, enhancing data consistency and accessibility. Streamlining workflows and improving overall system efficiency
       </>
     ),
   },
