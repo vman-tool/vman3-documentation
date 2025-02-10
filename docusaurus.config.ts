@@ -5,13 +5,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'VMan Documentation',
   tagline: 'Welcome to VMan Tools where you can find all the information you need to get started with VMan',
-  favicon: 'vman_logo_notext.png',
+  favicon: 'img/vman_logo_notext.png',
 
   // Set the production url of your site here
   url: 'http://localhost:3000',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs/',
+  baseUrl: '/docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
