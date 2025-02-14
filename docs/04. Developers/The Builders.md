@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# The Biulders
+# The Builders
 
 This page is still under construction 
