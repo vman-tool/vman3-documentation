@@ -83,9 +83,19 @@ To change these images simple click the upload button indicated by the **Cloud I
 
 ![Dashboard image 1](./img/dashboard/lableaccess.jpg)
 
+This tab allows for renaming of different location fields such as Regions and Districts. 
+
 ## Data Synchronization
 
-Pending..
+This tab facilitates data retrieval from designated sources via the **ODK API**, as specified in the Configurations tab. It also enables updating of selected datasets to address synchronization failures or delays. 
+
+![Dashboard image 1](./img/dashboard/Datasync.bmp)
+
+Pressing the blue **Sync ODK Questions** button triggers an automatic synchronization, where the system retrieves data from the registered source and structures it according to the predefined questions in the system. This process ensures a seamless transformation of raw data into readable and easily interpretable materials. If automatic synchronization fails for any reason, use the **Force** button to manually initiate the process. 
+
+### Manual Sync
+
+
 
 ## Users/Users Management
 ### Users
