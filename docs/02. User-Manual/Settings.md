@@ -95,7 +95,11 @@ Pressing the blue **Sync ODK Questions** button triggers an automatic synchroniz
 
 ### Manual Sync
 
+The Manual Sync function is designed to resolve discrepancies arising from synchronization errors, data misalignment, or system glitches. This process ensures that the questions within the provided dataset are realigned with the predefined question flow programmed into the system, maintaining consistency across data entries.
 
+During manual synchronization, the system cross-references the dataset against the expected question sequence, adjusting where necessary to enforce a structured and uniform progression. While this may lead to some questions and responses being renumbered, the overall integrity of the data is preserved. The functionality is optimized for ODK forms and similar structured data collections, ensuring that most forms and question flows remain accurate and usable post-synchronization.
+
+Manual sync should be used cautiously, particularly in datasets with extensive dependencies, as changes in numbering may impact linked responses or referenced fields. Users are advised to verify data accuracy following synchronization to prevent unintended alterations in form logic or reporting.
 
 ## Users/Users Management
 ### Users

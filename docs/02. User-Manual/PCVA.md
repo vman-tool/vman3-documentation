@@ -47,3 +47,7 @@ Under this Mini-tab, the coder will be abale to see all VA records which have be
 The Discordants tab allows coders to view VA records that have been flagged due to mis-matching of the underlying cause of death. 
 
 If the cause of death does not match, both coders will find the record in their Discordant tab. Coders will then have the opportunity to review the record again and discuss the differences until they reach a consensus. Once a uniform agreement is reached, either one or both coders will amend their coding sheets to align with the agreed cause of death and resubmit the updated coding for approval. This process ensures that the final coding reflects a shared, accurate conclusion.
+
+## Data Export
+
+The Data Export tab enables users to download pre-coded autopsy data. By clicking the blue **Export Results** button located at the top right of the tab, the system will automatically generate and download the dataset in Excel format (.xlsx). This ensures a structured and easily accessible export for further analysis or reporting.
