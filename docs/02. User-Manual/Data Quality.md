@@ -8,7 +8,7 @@ sidebar_position: 4
 The Error tab is designed to help users identify, analyze, and correct errors in data processing. It provides different sections to categorize errors, filter them, and take necessary actions for data cleaning.Select Error Source
 Users can choose the source of the error from two available algorithms namely InterVA 5 or Insilico VA. 
 
-![Dashboard image 1](./img/dashboard/Dataquality.bmp)
+![Dashboard image 1](./img/dashboard/dataquality.bmp)
 
 ## Error List
 ### Group Error List
