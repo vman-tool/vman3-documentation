@@ -114,7 +114,7 @@ sudo touch config.json
 ```
 DB_URL=http://arango-db:8529
 DB_NAME=vman3
-ARANGO_ROOT_USER=root
+DB_ROOT_USER=root
 ARANGO_ROOT_PASSWORD=your-password
 
 DEFAULT_ACCOUNT_NAME=Administrator
