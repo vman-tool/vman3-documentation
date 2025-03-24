@@ -16,9 +16,8 @@ The Physician-Coded Verbal Autopsy (PCVA) tab is a comprehensive and robust syst
 
 **Discordant Resolution:** The discordant resolution feature provides structured workflows to address discrepancies and disagreements between coders. It offers a systematic approach for resolving differences in coding interpretations, ensuring that all issues are addressed promptly and effectively. This process preserves the integrity of the data and ensures that the final coding reflects the most accurate possible cause of death.
 
-
 ## Coders
-The Mini-tab displays a list of all available coders, providing essential details such as their name, email, location, and phone number. To assign a coder one or more VA records, simply click the action icon next to their name. The action icon is represented by a person with a plus sign next to them found in the Action column 
+The Mini-tab displays a list of all available coders, providing essential details such as their name, email, location, and phone number. To assign a coder one or more VA records, simply click the action icon next to their name. The action icon is represented by a person with a plus sign next to them found in the Action column. 
 
 ![Dashboard image 1](./img/dashboard/coders.jpg)
 
