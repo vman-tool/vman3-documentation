@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# How to Install
+# Run VMan in development Mode
 
 ## Vman3 Frontend Installation
 
