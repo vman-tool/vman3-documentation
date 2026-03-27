@@ -79,7 +79,7 @@ This section enables changes to images across the system, such as the favicon, s
 
 To change these images simple click the upload button indicated by the **Cloud Icon.** This will upload images directly form their desktop to the system and change them. To save these changes click the **Save Images** button found under the images. To return to default images click the **Revert Images** button found along sign.  
 
-### label Access Fields
+### Re-label Access Fields
 
 ![Dashboard image 1](./img/dashboard/lableaccess.jpg)
 
